@@ -1,0 +1,3 @@
+# GSAlgorithm
+
+Java GS Algorithm.
